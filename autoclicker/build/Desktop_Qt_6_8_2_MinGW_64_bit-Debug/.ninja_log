@@ -1,0 +1,94 @@
+# ninja log v6
+11	2519	7630545337482966	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+11	2519	7630545337482966	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+11	2519	7630545337482966	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+11	2519	7630545337482966	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+2527	5914	7630545338625644	CMakeFiles/autoclicker.dir/autoclicker_autogen/mocs_compilation.cpp.obj	5370911c85e76c25
+2532	5928	7630545338684492	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+2538	6134	7630545338742486	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+6134	6405	7630545374703460	autoclicker.exe	96c96c31f34e5951
+16	1359	7630550009672959	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+16	1359	7630550009672959	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+16	1359	7630550009672959	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+16	1359	7630550009672959	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+1360	4728	7630550010751972	CMakeFiles/autoclicker.dir/autoclicker_autogen/mocs_compilation.cpp.obj	5370911c85e76c25
+34	265	7630550927005872	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+34	265	7630550927005872	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+34	265	7630550927005872	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+34	265	7630550927005872	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+32	252	7630551953043039	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+32	252	7630551953043039	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+32	252	7630551953043039	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+32	252	7630551953043039	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+253	3666	7630551955253266	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+32	237	7630552252237532	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+32	237	7630552252237532	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+32	237	7630552252237532	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+32	237	7630552252237532	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+238	3634	7630552254289275	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+243	3664	7630552254335105	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+15	248	7630552857564403	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+15	248	7630552857564403	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+15	248	7630552857564403	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+15	248	7630552857564403	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+249	3609	7630552859892949	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+254	3638	7630552859947022	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+33	1317	7630553391916354	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	1317	7630553391916354	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+33	1317	7630553391916354	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	1317	7630553391916354	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+1318	4582	7630553392965348	CMakeFiles/autoclicker.dir/autoclicker_autogen/mocs_compilation.cpp.obj	5370911c85e76c25
+1328	4793	7630553393057455	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+1323	4803	7630553393010429	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+33	1290	7630557327071262	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	1290	7630557327071262	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+33	1290	7630557327071262	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	1290	7630557327071262	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+1296	5129	7630557328161151	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+1291	5147	7630557328115489	CMakeFiles/autoclicker.dir/autoclicker_autogen/mocs_compilation.cpp.obj	5370911c85e76c25
+33	265	7630558436426617	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	265	7630558436426617	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+33	265	7630558436426617	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	265	7630558436426617	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+16	242	7630559153114265	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+16	242	7630559153114265	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+16	242	7630559153114265	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+16	242	7630559153114265	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+33	261	7630559426982296	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	261	7630559426982296	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+33	261	7630559426982296	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	261	7630559426982296	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+262	3733	7630559429282401	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+3733	3970	7630559463986806	autoclicker.exe	96c96c31f34e5951
+16	233	7630560135147375	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+16	233	7630560135147375	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+16	233	7630560135147375	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+16	233	7630560135147375	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+234	3642	7630560137333391	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+3643	3863	7630560171409738	autoclicker.exe	96c96c31f34e5951
+19	245	7630563039515735	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+19	245	7630563039515735	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+19	245	7630563039515735	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+19	245	7630563039515735	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+246	3765	7630563041789699	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+3766	3984	7630563076984548	autoclicker.exe	96c96c31f34e5951
+33	1254	7630565266593102	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	1254	7630565266593102	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+33	1254	7630565266593102	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+33	1254	7630565266593102	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+32	230	7630565836393373	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+32	230	7630565836393373	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+32	230	7630565836393373	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+32	230	7630565836393373	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+36	1283	7630566682591669	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+36	1283	7630566682591669	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+36	1283	7630566682591669	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+36	1283	7630566682591669	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+36	1271	7630568414509269	autoclicker_autogen/timestamp	e5bf99ecaf2545e
+36	1271	7630568414509269	autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+36	1271	7630568414509269	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/timestamp	e5bf99ecaf2545e
+36	1271	7630568414509269	C:/Users/NelvinCheah/Documents/Project/C++ Project/autoclicker/autoclicker/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/autoclicker_autogen/mocs_compilation.cpp	e5bf99ecaf2545e
+1272	4398	7630568415582512	CMakeFiles/autoclicker.dir/autoclicker_autogen/mocs_compilation.cpp.obj	5370911c85e76c25
+1277	4456	7630568415632510	CMakeFiles/autoclicker.dir/main.cpp.obj	bf8d03c9892ea3ee
+1282	4668	7630568415675988	CMakeFiles/autoclicker.dir/mainwindow.cpp.obj	b2ae803ff77c986d
+4668	4855	7630568449464131	autoclicker.exe	96c96c31f34e5951
