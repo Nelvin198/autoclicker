@@ -52,7 +52,7 @@ AutoClicker is a simple yet powerful tool written in C++ that simulates mouse cl
 To compile the command-line version:
 ```bash
 g++ autoclicker.cpp -o autoclicker.exe -lgdi32
-
+```
 # AutoClicker - GUI Version
 
 AutoClicker is a user-friendly tool written in C++ with a graphical interface that simulates mouse clicks at a specified interval. It allows you to automate repetitive clicking tasks with ease.
@@ -91,8 +91,9 @@ AutoClicker is a user-friendly tool written in C++ with a graphical interface th
    - Close the window to exit the application.
 
 ### Screenshot
+![image](https://github.com/user-attachments/assets/75083206-6741-43cc-bf29-c325f7a91da9)
 
-![GUI Screenshot](screenshot.png)
+
 
 ---
 
